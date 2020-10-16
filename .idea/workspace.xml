@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afe4c076-0f42-4004-b142-92fa21aa981a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/rc_tool$rc_tool__runIde_.ic" NAME="rc-tool [runIde] Coverage Results" MODIFIED="1597113829743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rc-tool" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rc-tool" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rc-tool" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rc-tool" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rc-tool" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/AllMavenProjectVCSettingDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2394">
+              <caret line="153" column="69" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/SyncVersionProjectSelectorDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/SyncWorkspaceVersionAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/OpenMavenProjectBaseAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44583">
+              <caret line="2242" column="15" selection-start-line="2242" selection-start-column="15" selection-end-line="2242" selection-end-column="15" />
+              <folding>
+                <element signature="e#21363#21364#0" expanded="true" />
+                <element signature="e#21397#21398#0" expanded="true" />
+                <element signature="e#86431#86432#0" expanded="true" />
+                <element signature="e#86491#86492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/ShowAllBranchVersionAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/ShowAllProjectBranchVersionDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1932">
+              <caret line="124" column="46" selection-start-line="124" selection-start-column="46" selection-end-line="124" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/ShowAllProjectBranchVersionDialog.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/AllMavenProjectVCSettingDialog.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Action" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myProject</find>
+      <find>Checkin</find>
+      <find>Vcs.CommitExecutor.Actions</find>
+      <find>applicationService</find>
+      <find>treeStructureProvider</find>
+      <find>com.intellij.vcs.git.pushCustomizationFactory</find>
+      <find>org.jetbrains.urlOpener</find>
+      <find>vcs.git.pushCustomizationFactory</find>
+      <find>push success</find>
+      <find>utils</find>
+      <find>selectionModel</find>
+      <find>MavenUtil.</find>
+      <find>ShowHi</find>
+      <find>Compare with</find>
+      <find>myEditors</find>
+      <find>Local change</find>
+      <find>&quot;vcs.history.action.gitlog</find>
+      <find>Log</find>
+      <find>vcs.history.action.gitlog</find>
+      <find>Git.Log</find>
+      <find>JTable</find>
+      <find>keyboard-shortcut</find>
+      <find>control</find>
+      <find>cellEditor</find>
+      <find>&quot;Checkout&quot;</find>
+      <find>Checkout</find>
+      <find>.svg&quot;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/versionviewer/ProjectToolWindowGearActionDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/versionviewer/CustomTreeStructureProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/versionviewer/PsiDirectoryNodeCustom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/versionviewer/ProjectViewNodeDecoratorImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/PomUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/bean/MavenDependencyWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/git/commit/MyCommitMessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/git/commit/FormatCommitMessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/git/commit/AutoRedmineIdCommitMessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/AbstractAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/rc/RCVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/MavenUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/SyncWorkspaceVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/ui/SyncVersionProjectSelector.form" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/version/ui/SyncVersionProjectSelector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/SyncVersionProjectSelectorDialog.form" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/bean/MavenGroupArtifact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/AllMavenProjectVCSettingDialog.form" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/rc/RCVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/rc/AllMavenProjectRCVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/NotificationUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/NotificationBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/snapshot/SnapshotVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/BaseDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/AllMavenProjectRCVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/SyncWorkspaceVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/common/GitConst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/git/push/GerritGitPushProcessCustomizationFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/common/MavenConst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/projectview/version_show/ProjectViewNodeDecoratorImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/AllMavenProjectVCSettingDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/SnapshotVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/ReleaseVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/AbstractAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/GitUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/common/ToolSettingProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/common/VersionToolConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/SyncVersionProjectSelectorDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/MavenUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/bean/BranchVersionLastLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/MessageTipUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/ShowAllBranchVersionAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/ShowAllProjectBranchVersionDialog.form" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/ShowAllProjectBranchVersionDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/OpenMavenProjectBaseAction.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rc-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rc-tool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rc-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rc-tool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="9fbdd972:PsiDirectoryNodeCustom" />
+            </path>
+            <path>
+              <item name="rc-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rc-tool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="9fbdd972:PsiDirectoryNodeCustom" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="rc-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rc-tool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="9fbdd972:PsiDirectoryNodeCustom" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="9fbdd972:PsiDirectoryNodeCustom" />
+            </path>
+            <path>
+              <item name="rc-tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rc-tool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="9fbdd972:PsiDirectoryNodeCustom" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="9fbdd972:PsiDirectoryNodeCustom" />
+              <item name="META-INF" type="9fbdd972:PsiDirectoryNodeCustom" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597997989847" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\rc-tool\src\main\resources\images" />
+      <recent name="D:\workspace\rc-tool\src\main\java\com\meizu\tool\utils" />
+      <recent name="D:\workspace\rc-tool\src\main\java\com\meizu\tool\versionviewer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meizu.tool.maven.snapshot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\rc-tool\src\main\resources\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.rc-tool [clean]">
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="rc-tool [buildPlugin]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildPlugin" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="rc-tool [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="rc-tool [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="rc-tool [publishPlugin]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishPlugin" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="rc-tool [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.rc-tool [clean]" />
+        <item itemvalue="Gradle.rc-tool [runIde]" />
+        <item itemvalue="Gradle.rc-tool [build]" />
+        <item itemvalue="Gradle.rc-tool [buildPlugin]" />
+        <item itemvalue="Gradle.rc-tool [publishPlugin]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jaingyiwang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe4c076-0f42-4004-b142-92fa21aa981a" name="Default Changelist" comment="" />
+      <created>1596599869424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596599869424</updated>
+      <workItem from="1596599874950" duration="1877000" />
+      <workItem from="1596681734526" duration="1884000" />
+      <workItem from="1596695279918" duration="104758000" />
+      <workItem from="1597221438212" duration="210000" />
+      <workItem from="1597221684453" duration="81000" />
+      <workItem from="1597221790309" duration="596000" />
+      <workItem from="1597281371309" duration="22833000" />
+      <workItem from="1597308769370" duration="2625000" />
+      <workItem from="1597311473625" duration="49000" />
+      <workItem from="1597651606035" duration="32019000" />
+      <workItem from="1597919439001" duration="7992000" />
+      <workItem from="1597981411561" duration="1352000" />
+      <workItem from="1597989661254" duration="171000" />
+      <workItem from="1597996357949" duration="1635000" />
+      <workItem from="1597998098472" duration="969000" />
+      <workItem from="1597999122125" duration="1706000" />
+      <workItem from="1602834891889" duration="3324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="184081000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.21551724" side_tool="true" weight="0.5480043" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7844828" visible="true" weight="0.30495688" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32889965" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053936" side_tool="true" weight="0.8319226" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.2972067" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32889965" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3236715" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946064" weight="0.4347826" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32914287" />
+      <window_info anchor="bottom" id="Graph Database Console" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="14" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.32889965" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="17" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.2541466" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.031788792" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24719101" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.25134844" />
+      <window_info anchor="right" id="Graph Database" order="10" weight="0.32955772" />
+      <window_info anchor="right" id="Database" order="11" />
+      <window_info anchor="right" id="Mybatis datasource" order="12" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="13" weight="0.27454153" />
+      <window_info anchor="right" id="Alibaba Log Console" order="14" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.21551724" side_tool="true" weight="0.5480043" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7844828" visible="true" weight="0.30545062" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32889965" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053936" side_tool="true" weight="0.8319226" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.2972067" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32889965" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.14510278" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946064" weight="0.43542856" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32914287" />
+      <window_info anchor="bottom" id="Graph Database Console" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="14" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.32889965" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="17" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.2541466" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24973032" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24719101" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.25134844" />
+      <window_info anchor="right" id="Graph Database" order="10" weight="0.32955772" />
+      <window_info anchor="right" id="Database" order="11" />
+      <window_info anchor="right" id="Mybatis datasource" order="12" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="13" weight="0.27454153" />
+      <window_info anchor="right" id="Alibaba Log Console" order="14" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/uiDesigner/core/GridLayoutManager.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/diff/impl/DiffWindowBase.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/ui/ChangeDiffRequestChain.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/diff/impl/DiffWindowBase.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/dvcs/actions/DvcsCompareWithBranchAction.java</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/history/VcsDiffUtil.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>219</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/diff/impl/CacheDiffRequestProcessor.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/diff/impl/CacheDiffRequestProcessor.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/diff/impl/DiffRequestProcessor.java</url>
+          <line>1216</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/diff/tools/util/side/TwosideDiffViewer.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>235</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>239</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>243</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>278</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>361</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>438</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/changes/actions/diff/ChangeDiffRequestProducer.java</url>
+          <line>454</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/history/VcsDiffUtil.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/actions/GitCompareWithBranchAction.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>m.getArtifactId().getRawText().equals(&quot;ocean-core-service&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m.getArtifactId().equals(&quot;ocean-core-service&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m.getArtifactId().getValue().contains(&quot;utils&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m.getArtifactId().getRawText().equals(&quot;ocean-utils&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m.getArtifactId().getValue().equals(&quot;ocean-utils&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m.getArtifactId().equals(&quot;ocean-utils&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getArtifactId().equals(&quot;aspectjweaver&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getArtifactId().getValue().equals(&quot;aspectjweaver&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getArtifactId().getValue().endsWith(&quot;aspectjweaver&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>v.get</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getArtifactId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>myRepositories.get(1).getRoot().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myRepositories.get(2).getRoot().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myRepositories</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myBranchName=&quot;h5&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ex.printStackTrace();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GitUtils.getCurrentBranchName(node.getProject(), mavenProject)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.getCommits()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>logManager.getDataManager().getTopCommitsCache().mySortedDetails</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>logManager.getDataManager().getTopCommitsCache()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>logManager.getDataManager().getTopCommitsCache().get(4)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="2677" column="16" selection-start-line="2677" selection-start-column="16" selection-end-line="2677" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/DefaultCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/refactoring/ui/StringTableCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/util/ui/AbstractTableCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/AbstractCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/lib/platform-impl.jar!/com/intellij/internal/GrayFilterConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#7457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/ui/table/JBTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1156">
+          <caret line="234" lean-forward="true" selection-start-line="234" selection-end-line="234" />
+          <folding>
+            <element signature="e#2981#2982#0" expanded="true" />
+            <element signature="e#3020#3021#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/lib/platform-impl.jar!/com/intellij/internal/inspector/UiInspectorAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4221">
+          <folding>
+            <element signature="e#0#85757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/lib/platform-impl.jar!/com/intellij/openapi/roots/libraries/ui/impl/DetectedRootsChooserDialog.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#11240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/CellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/table/TableCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/internal/GrayFilterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/roots/libraries/ui/impl/DetectedRootsChooserDialog.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/SyncVersionProjectSelectorDialog.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/dvcs/ui/VcsLogSingleCommitAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/actions/GitCheckoutRevisionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/checkout/GitCloneDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/checkout/GitCheckoutProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/plugins/git4idea/lib/git4idea.jar!/META-INF/git.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/META-INF/VcsExtensionPoints.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-662">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/openapi/vcs/CheckoutProviderEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/checkout/GitCheckoutProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/plugins/git4idea/lib/git4idea.jar!/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="163" column="88" selection-start-line="163" selection-start-column="88" selection-end-line="163" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/ui/branch/GitBranchPopupActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="321" column="26" lean-forward="true" selection-start-line="321" selection-start-column="26" selection-end-line="321" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="633" column="66" lean-forward="true" selection-start-line="633" selection-start-column="41" selection-end-line="633" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/MessageTipUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/plugins/git4idea/lib/git4idea.jar!/git4idea/GitUsagesTriggerCollector.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/com/intellij/dvcs/branch/DvcsBranchPopup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/ui/branch/GitBranchPopup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="127" column="52" selection-start-line="127" selection-start-column="52" selection-end-line="127" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.2/a342a5dfa3b2e721e5edbdbc140163c4e16f7fac/ideaIC-2018.3.2-sources.jar!/git4idea/changes/GitChangeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/projectview/version_show/ProjectViewNodeDecoratorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/images/sync.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/images/sync.svg" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIU/2018.3.2/63c376f80e1ec4f14d2908042d1de09b4598cb78/ideaIU-2018.3.2/lib/resources.jar!/META-INF/VcsExtensionPoints.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/projectview/version_show/ProjectToolWindowGearActionDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/images/vs_set.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/images/tool.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/images/vs_sync.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/utils/GitUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2604">
+          <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/bean/BranchVersionLastLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+          <folding>
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44583">
+          <caret line="2242" column="15" selection-start-line="2242" selection-start-column="15" selection-end-line="2242" selection-end-column="15" />
+          <folding>
+            <element signature="e#21363#21364#0" expanded="true" />
+            <element signature="e#21397#21398#0" expanded="true" />
+            <element signature="e#86431#86432#0" expanded="true" />
+            <element signature="e#86491#86492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/ShowAllBranchVersionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/ShowAllProjectBranchVersionDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="124" column="46" selection-start-line="124" selection-start-column="46" selection-end-line="124" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/ShowAllProjectBranchVersionDialog.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/AllMavenProjectVCSettingDialog.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/AllMavenProjectVCSettingDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="153" column="69" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/ui/maven/SyncVersionProjectSelectorDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/SyncWorkspaceVersionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/meizu/tool/maven/OpenMavenProjectBaseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.meizu.rc-tool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

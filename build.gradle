@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.4.21'
+}
+
+apply plugin: 'org.jetbrains.intellij'
+apply plugin: 'java'
+
+
+group 'com.meizu'
+version '1.0'
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.9'
+    compile group: 'org.dom4j', name: 'dom4j', version: '2.1.1'
+}
+
+intellij {
+    version '2018.3.2'
+    type 'IU'
+    updateSinceUntilBuild false
+    sameSinceUntilBuild false
+    pluginName 'rc tool'
+    plugins = ['maven','git4idea']
+}
